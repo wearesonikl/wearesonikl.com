@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Impact Label';
+   font-display: swap;
+   src: url('Impact Label/font.ttf');
+}
+@font-face {
+   font-family: 'Impact Label Reversed';
+   font-display: swap;
+   src: url('Impact Label Reversed/font.ttf');
+}
